@@ -1,0 +1,57 @@
+AIM
+
+The aim of this project is it to make communication very much simpler for 
+physically challenged (dumb, deaf) people and to enable hygienic communication 
+in public places using hand gestures.
+
+
+ OBJECTIVES
+
+Hand Gesture recognition systems allow us to communicate with the machine,which is more familiar
+ to the human being, creative, normal, user-friendly.Hand gesture recognition covers a wide range 
+of applications including contact with the human machine, sign language, immersive game technology etc. 
+The main objective of static hand gesture recognition is to classify the given
+hand gesture data represented by some features into some predefined finite number-of-gesture-classes.
+
+PROPOSED SYSTEM
+ 
+The overview of the hand gesture recognition is described in Figure 1. First, the hand is detected using the background subtraction method 
+and the result of hand detection is transformed to a binary image. Then, the fingers and palm are segmented so as to facilitate the finger recognition.
+Moreover, the fingers are detected and recognized. Last, hand gestures are recognized using a simple rule classifier.
+ 
+
+Software Requirements
+
+●	Since this is a software hence it will have to run on some hardware and operating system obviously, so below are the requirements to run this software:
+●	Windows/Linux/Mac OS any version, hence it can run on any platform.
+●	Python3, it needs python to be installed in your system to run this successfully.
+
+Packages in python:-
+
+●	OpenCV
+●	Tensorflow
+●	Mediapipe 
+
+Hardware Requirements
+In terms of hardware requirements there is not much required at all but still below requirements are must:
+
+●	Working PC or Laptop
+●	Webcam with drivers installed
+
+ADVANTAGES OF PROPOSED SYSTEM
+
+●	With this System We can Conduct Video Surveillance and Identify the running Processes.
+●	This System Breaks the Video in many Frames.
+
+●	In this System we perform Video Editing and Formatting in the System and it will  successfully saved in the proposed System
+
+APPLICATIONS 
+Our HGR can be used as an HCI mechanism for various applications, such as a 
+ virtual touchscreen for desktop computers, 
+ sending visual commands for robots, 
+ a controller for virtual reality gaming systems, and 
+ a remote control for large screen displays . 
+
+
+
+
